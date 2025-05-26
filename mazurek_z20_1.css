@@ -1,0 +1,25 @@
+div#blok2 {
+    background-color: #FF00FF; /* Magenta */
+    width: 15%;
+    height: 80%;
+}
+
+p#blok2_paragraf {
+    font-size: 20pt;
+}
+
+i {
+    color: green;
+    font-weight: bold;
+}
+
+strike {
+    color: red;
+    font-size: 20pt;
+}
+
+u {
+    color: purple;
+    text-decoration: overline;
+    font-size: 20pt;
+}
