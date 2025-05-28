@@ -1,35 +1,35 @@
-/* Kowalski_z23.css */
+/* mazurek_z23.css */
 
-p#pogrubienie_kowalski {
+p#pogrubienie_mazurek {
     font-size: 25px;
     color: #7D322C; /* obliczony kolor */
 }
 
-p#pochylona_kowalski {
+p#pochylona_mazurek {
     font-size: 30pt;
     color: #E17D64; /* obliczony kolor */
 }
 
-p#index_gorny_kowalski {
+p#index_gorny_mazurek {
     font-size: 1cm;
     color: #91F43D; /* obliczony kolor */
 }
 
-p#index_dolny_kowalski {
+p#index_dolny_mazurek {
     font-size: 1.5cm;
     color: #2DD9D2; /* obliczony kolor */
 }
 
-p#mono_kowalski {
+p#mono_mazurek {
     font-size: 35px;
     color: #11098C; /* obliczony kolor */
 }
 
-p#powiekszenie_kowalski {
+p#powiekszenie_mazurek {
     color: #3C14E1; /* obliczony kolor */
 }
 
-p#pomniejszenie_kowalski {
+p#pomniejszenie_mazurek {
     font-size: 12px;
     color: #D57032; /* obliczony kolor */
 }
