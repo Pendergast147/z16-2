@@ -1,0 +1,12 @@
+/* Oktawian Mazurek, klasa 2K */
+
+h3 {
+    width: 240px;
+    height: 40px;
+    padding: 15px;
+    margin: 10px auto;
+    border: 4px double #aaa;
+    background: rgb(200,200,200);
+    font-size: 12px;
+    text-align: center;
+}
