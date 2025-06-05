@@ -19,7 +19,7 @@
             background: rgb(255, 255, 153);
             border: groove 3px #808080;
             font-size: 10pt;
-            margin-left:300px;
+            margin-left:6cm;
             padding: 10px;
         }
 
@@ -29,6 +29,6 @@ h3 {
     background: rgb(255, 255, 153);
     border: ridge 3px #800080;
     font-size: 10pt;
-    margin-right:500px;
+    margin-right:7cm;
     padding: 10px;
 }
